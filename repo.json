@@ -1,35 +1,14 @@
 [{
-  "Name": "aspell",
-  "Description": "Spellchecking with Aspell",
+  "Name": "aspellR",
+  "Description": "Spellchecking with Aspell, my own fork",
   "Tags": ["spellchecking", "spelling", "aspell", "spellchecker"],
-  "Website": "https://github.com/priner/micro-aspell-plugin",
+  "Website": "https://github.com/RaphyJake/micro-aspell-plugin",
   "Versions": [
     {
       "Version": "1.2.1",
-      "Url": "https://github.com/priner/micro-aspell-plugin/archive/v1.2.1.zip",
+      "Url": "https://github.com/RaphyJake/micro-aspell-plugin/archive/master.zip",
       "Require": {
         "micro": ">=2.0.7"
-      }
-    },
-    {
-      "Version": "1.2.0",
-      "Url": "https://github.com/priner/micro-aspell-plugin/archive/v1.2.0.zip",
-      "Require": {
-        "micro": ">=2.0.0"
-      }
-    },
-    {
-      "Version": "1.1.0",
-      "Url": "https://github.com/priner/micro-aspell-plugin/archive/v1.1.0.zip",
-      "Require": {
-        "micro": ">=2.0.0"
-      }
-    },
-    {
-      "Version": "1.0.0",
-      "Url": "https://github.com/priner/micro-aspell-plugin/archive/v1.0.0.zip",
-      "Require": {
-        "micro": ">=2.0.0"
       }
     }
   ]
